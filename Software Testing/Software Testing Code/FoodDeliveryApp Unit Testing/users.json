@@ -1,0 +1,10 @@
+{
+    "Test_user@example.com": {
+        "password": "ValidPass123@",
+        "confirmed": false
+    },
+    "13380174610@163.com": {
+        "password": "Zh040212",
+        "confirmed": false
+    }
+}
